@@ -6,16 +6,16 @@
 
 ## Pipeline
 
-![](https://github.com/leolya/face-image-light-enhancement/blob/master/assets/pipeline.jpg)
+![](https://github.com/leolya/face-image-light-enhancement/tree/main/assets/pipeline.jpg)
 
 ## Model
 
-![](https://github.com/leolya/face-image-light-enhancement/blob/master/assets/network.jpg)
+![](https://github.com/leolya/face-image-light-enhancement/tree/main/assets/network.jpg)
 
 ## Visualization
 
-![](https://github.com/leolya/face-image-light-enhancement/blob/master/assets/visual.jpg)
+![](https://github.com/leolya/face-image-light-enhancement/tree/main/assets/visual.jpg)
 
 ## Ablation Study
 
-![](https://github.com/leolya/face-image-light-enhancement/blob/master/assets/result.jpg)
+![](https://github.com/leolya/face-image-light-enhancement/tree/main/assets/result.jpg)
