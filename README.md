@@ -19,3 +19,7 @@
 ## Ablation Study
 
 ![](/assets/result.jpg)
+
+
+
+Virtual dataset synthesis: https://github.com/leolya/face-light-rendering-for-face-image-enhancement
