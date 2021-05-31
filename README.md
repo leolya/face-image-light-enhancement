@@ -4,6 +4,8 @@
 
 该项目是我的本科毕业设计，在北京邮电大学，大四期间完成。
 
+Virtual dataset synthesis: https://github.com/leolya/face-light-rendering-for-face-image-enhancement
+
 ## Pipeline
 
 ![](/assets/pipeline.jpg)
@@ -20,6 +22,8 @@
 
 ![](/assets/result.jpg)
 
+## Reference
 
+https://github.com/prlz77/vgg-face.pytorch
 
-Virtual dataset synthesis: https://github.com/leolya/face-light-rendering-for-face-image-enhancement
+https://github.com/milesial/Pytorch-UNet
