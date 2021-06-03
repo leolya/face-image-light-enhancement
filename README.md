@@ -27,3 +27,8 @@ Virtual dataset synthesis: https://github.com/leolya/face-light-rendering-for-fa
 https://github.com/prlz77/vgg-face.pytorch
 
 https://github.com/milesial/Pytorch-UNet
+
+https://figshare.com/articles/dataset/Face_Research_Lab_London_Set/5047666
+
+https://chicagofaces.org/default/
+
